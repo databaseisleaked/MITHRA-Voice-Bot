@@ -788,7 +788,7 @@ def station_extraction(user_input):
     """
     try:
         # ✅ Gemini Model Configuration
-        genai.configure(api_key="AIzaSyBP5uV1TfyN5Mh3SPAegcqhDp4QAOFOFg8")  # Replace with your API key
+        genai.configure(api_key=api_key) # Update with your API key
         model = genai.GenerativeModel("gemini-2.0-flash")
         conn = sqlite3.connect("chennai_metro.db")  # Replace with actual DB
         cursor = conn.cursor()

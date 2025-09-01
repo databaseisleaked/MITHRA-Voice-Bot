@@ -22,7 +22,9 @@ if not os.path.exists(audio_folder):
 TEMP_AUDIO_PATH = os.path.join(audio_folder, 'temp_audio.mp3')
 
 
-genai.configure(api_key="AIzaSyBP5uV1TfyN5Mh3SPAegcqhDp4QAOFOFg8")
+api_key = os.getenv("GOOGLE_API_KEY")  # Get API key from env variables
+
+genai.configure(api_key=api_key)
 
 generation_config = {
     "temperature": 1,

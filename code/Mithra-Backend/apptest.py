@@ -110,7 +110,7 @@ TEMP_AUDIO_PATH = os.path.join(audio_folder, 'temp_audio.mp3')
 
 load_dotenv()  # Load environment variables from .env file
 
-api_key = "AIzaSyBP5uV1TfyN5Mh3SPAegcqhDp4QAOFOFg8"  # Get API key from env variables
+api_key = os.getenv("GOOGLE_API_KEY")  # Get API key from env variables
 
 genai.configure(api_key=api_key)
 
