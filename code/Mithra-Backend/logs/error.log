@@ -1,0 +1,40 @@
+[Tue Feb 18 13:04:53.255821 2025] [wsgi:error] [pid 13336:tid 2028] [client ::1:61828] mod_wsgi (pid=13336): Failed to exec Python script file 'C:/xampp/htdocs/Mithra-Backend/web.wsgi'.
+[Tue Feb 18 13:04:53.255821 2025] [wsgi:error] [pid 13336:tid 2028] [client ::1:61828] mod_wsgi (pid=13336): Exception occurred processing WSGI script 'C:/xampp/htdocs/Mithra-Backend/web.wsgi'.
+[Tue Feb 18 13:04:53.259865 2025] [wsgi:error] [pid 13336:tid 2028] [client ::1:61828] Traceback (most recent call last):\r
+[Tue Feb 18 13:04:53.259865 2025] [wsgi:error] [pid 13336:tid 2028] [client ::1:61828]   File "C:/xampp/htdocs/Mithra-Backend/web.wsgi", line 4, in <module>\r
+[Tue Feb 18 13:04:53.259865 2025] [wsgi:error] [pid 13336:tid 2028] [client ::1:61828]     from app import app as application\r
+[Tue Feb 18 13:04:53.260615 2025] [wsgi:error] [pid 13336:tid 2028] [client ::1:61828]   File "C:\\xampp/htdocs/Mithra-Backend\\app.py", line 12, in <module>\r
+[Tue Feb 18 13:04:53.260615 2025] [wsgi:error] [pid 13336:tid 2028] [client ::1:61828]     os.makedirs(audio_folder)\r
+[Tue Feb 18 13:04:53.260615 2025] [wsgi:error] [pid 13336:tid 2028] [client ::1:61828]   File "<frozen os>", line 215, in makedirs\r
+[Tue Feb 18 13:04:53.260615 2025] [wsgi:error] [pid 13336:tid 2028] [client ::1:61828]   File "<frozen os>", line 225, in makedirs\r
+[Tue Feb 18 13:04:53.260615 2025] [wsgi:error] [pid 13336:tid 2028] [client ::1:61828] PermissionError: [WinError 5] Access is denied: 'static'\r
+[Tue Feb 18 13:05:08.487591 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61829] mod_wsgi (pid=13336): Failed to exec Python script file 'C:/xampp/htdocs/Mithra-Backend/web.wsgi'.
+[Tue Feb 18 13:05:08.488593 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61829] mod_wsgi (pid=13336): Exception occurred processing WSGI script 'C:/xampp/htdocs/Mithra-Backend/web.wsgi'.
+[Tue Feb 18 13:05:08.488781 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61829] Traceback (most recent call last):\r
+[Tue Feb 18 13:05:08.488781 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61829]   File "C:/xampp/htdocs/Mithra-Backend/web.wsgi", line 4, in <module>\r
+[Tue Feb 18 13:05:08.488781 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61829]     from app import app as application\r
+[Tue Feb 18 13:05:08.488781 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61829]   File "C:\\xampp/htdocs/Mithra-Backend\\app.py", line 12, in <module>\r
+[Tue Feb 18 13:05:08.488781 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61829]     os.makedirs(audio_folder)\r
+[Tue Feb 18 13:05:08.489217 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61829]   File "<frozen os>", line 215, in makedirs\r
+[Tue Feb 18 13:05:08.489217 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61829]   File "<frozen os>", line 225, in makedirs\r
+[Tue Feb 18 13:05:08.489217 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61829] PermissionError: [WinError 5] Access is denied: 'static'\r
+[Tue Feb 18 13:05:13.886467 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61837] mod_wsgi (pid=13336): Failed to exec Python script file 'C:/xampp/htdocs/Mithra-Backend/web.wsgi'.
+[Tue Feb 18 13:05:13.886948 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61837] mod_wsgi (pid=13336): Exception occurred processing WSGI script 'C:/xampp/htdocs/Mithra-Backend/web.wsgi'.
+[Tue Feb 18 13:05:13.886948 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61837] Traceback (most recent call last):\r
+[Tue Feb 18 13:05:13.886948 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61837]   File "C:/xampp/htdocs/Mithra-Backend/web.wsgi", line 4, in <module>\r
+[Tue Feb 18 13:05:13.886948 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61837]     from app import app as application\r
+[Tue Feb 18 13:05:13.886948 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61837]   File "C:\\xampp/htdocs/Mithra-Backend\\app.py", line 12, in <module>\r
+[Tue Feb 18 13:05:13.886948 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61837]     os.makedirs(audio_folder)\r
+[Tue Feb 18 13:05:13.886948 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61837]   File "<frozen os>", line 215, in makedirs\r
+[Tue Feb 18 13:05:13.886948 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61837]   File "<frozen os>", line 225, in makedirs\r
+[Tue Feb 18 13:05:13.886948 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61837] PermissionError: [WinError 5] Access is denied: 'static'\r
+[Tue Feb 18 13:11:42.641943 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61890] mod_wsgi (pid=13336): Failed to exec Python script file 'C:/xampp/htdocs/Mithra-Backend/web.wsgi'.
+[Tue Feb 18 13:11:42.642940 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61890] mod_wsgi (pid=13336): Exception occurred processing WSGI script 'C:/xampp/htdocs/Mithra-Backend/web.wsgi'.
+[Tue Feb 18 13:11:42.642940 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61890] Traceback (most recent call last):\r
+[Tue Feb 18 13:11:42.642940 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61890]   File "C:/xampp/htdocs/Mithra-Backend/web.wsgi", line 4, in <module>\r
+[Tue Feb 18 13:11:42.642940 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61890]     from app import app as application\r
+[Tue Feb 18 13:11:42.642940 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61890]   File "C:\\xampp/htdocs/Mithra-Backend\\app.py", line 12, in <module>\r
+[Tue Feb 18 13:11:42.642940 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61890]     os.makedirs(audio_folder)\r
+[Tue Feb 18 13:11:42.642940 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61890]   File "<frozen os>", line 215, in makedirs\r
+[Tue Feb 18 13:11:42.642940 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61890]   File "<frozen os>", line 225, in makedirs\r
+[Tue Feb 18 13:11:42.642940 2025] [wsgi:error] [pid 13336:tid 2016] [client ::1:61890] PermissionError: [WinError 5] Access is denied: 'static'\r

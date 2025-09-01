@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mithra Guidance ChatBot</title>
+  
+  <!-- Linking Google Fonts for Icons -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,0" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  
+  <!-- Corrected Favicon Link -->
+  <link rel="icon" type="image/svg+xml" href="{{ gemini_logo }}">
+</head>
+<body>
+
+  <!-- Pass the logos from Flask to JavaScript through inline variables -->
+  <script>
+    // Pass the static paths dynamically from Flask using Jinja2 syntax
+    window.userLogoSrc = "{{ user_logo }}";
+    window.geminiLogoSrc = "{{ gemini_logo }}";
+  </script>
+  
+  
+
+  <script>
+    // Wait for the page to fully load
+    window.addEventListener('load', function () {
+      document.body.classList.add('loaded');
+    });
+
+    // Handle the theme toggle to switch mic logo based on day/night mode
+    const micLogo = document.getElementById("mic-logo");
+    const themeToggleButton = document.getElementById("theme-toggle-button");
+
+    themeToggleButton.addEventListener("click", function () {
+      document.body.classList.toggle("light_mode");
+      if (document.body.classList.contains("light_mode")) {
+        micLogo.src = "images/micday/mic-logo.png"; 
+      } else {
+        micLogo.src = "images/micnight/mic-logo.png"; 
+      }
+    });
+  </script>
+
+  <!-- Language Selection Dropdown (Now Outside Header) -->
+  <div id="language-container">
+    <label for="language-selector">Language </label>
+    <select id="language-selector">
+      <option value="en-US">English</option>
+      <option value="ta">தமிழ்</option>
+      <option value="hi">हिन्दी</option>
+    </select>
+  </div>
+
+  <header class="header">
+    <!-- Header Greetings (Will be Hidden) -->
+    <h1 class="title" id="greeting-text">Hello, there</h1>
+    <p class="subtitle" id="subtitle-text">Please provide your Chennai Metro queries.</p>
+
+    <!-- Suggestion list (Will be Hidden) -->
+    <ul class="suggestion-list">
+        <li class="suggestion">
+            <h4 class="text" data-key="q1"></h4>
+            <span class="icon material-symbols-rounded">draw</span>
+        </li>
+        <li class="suggestion">
+            <h4 class="text" data-key="q2"></h4>
+            <span class="icon material-symbols-rounded">lightbulb</span>
+        </li>
+        <li class="suggestion">
+            <h4 class="text" data-key="q3"></h4>
+            <span class="icon material-symbols-rounded">explore</span>
+        </li>
+        <li class="suggestion">
+            <h4 class="text" data-key="q4"></h4>
+            <span class="icon material-symbols-rounded">code</span>
+        </li>
+    </ul>
+  </header>
+
+  <!-- Chat List / Container -->
+  <div class="chat-list"></div>
+
+  <!-- Typing Area -->
+  <div class="typing-area">
+    <form action="#" class="typing-form">
+      <div class="input-wrapper">
+        <input type="text" id="query-input" placeholder="Enter your queries here" class="typing-input" required data-lang="placeholder-query" />
+        <button id="send-message-button" class="icon material-symbols-rounded">send</button>
+      </div>
+      <div class="action-buttons">
+        <!-- Mic Icon -->
+        <span class="material-symbols-rounded mic-icon" id="mic-logo">mic</span>
+    
+        <!-- Other action buttons -->
+        <span id="theme-toggle-button" class="icon material-symbols-rounded">light_mode</span>
+        <span id="delete-chat-button" class="icon material-symbols-rounded">delete</span>
+      </div>
+    </form>
+    
+    <p class="disclaimer-text" id="bot-instruction" data-lang="instruction">
+      This is a Voice Bot that can only be used for Chennai Metro passenger assistance.
+    </p>
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+
+  
+</body>
+</html>

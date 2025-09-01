@@ -1,0 +1,2682 @@
+{
+    "stations": [
+        {
+            "station_name": "Chennai International Airport",
+            "alias": "Airport",
+            "platforms": [
+                {
+                    "platform_no": 1,
+                    "direction": "Towards Wimco Nagar Depot Metro"
+                },
+                {
+                    "platform_no": 2,
+                    "direction": "Towards Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro"
+                }
+            ],
+            "lifts_escalators": [
+                {
+                    "name": "Escalator No 1",
+                    "floor": "Street To Concourse Unpaid",
+                    "location": "A Entrance"
+                },
+                {
+                    "name": "Escalator No 2",
+                    "floor": "Concourse To Street",
+                    "location": "A Entrance"
+                },
+                {
+                    "name": "Escalator No 3",
+                    "floor": "Concourse To Platform - 01",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 4",
+                    "floor": "Platform - 01 To Concourse",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 5",
+                    "floor": "Concourse To Platform - 02",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 6",
+                    "floor": "Platform - 02 To Concourse",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 9",
+                    "floor": "Intermediate To Concourse",
+                    "location": "B Entrance"
+                },
+                {
+                    "name": "Escalator No 10",
+                    "floor": "Concourse To Intermediate",
+                    "location": "B Entrance"
+                },
+                {
+                    "name": "Lift No 03",
+                    "floor": "Concourse To Platform - 01",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 04",
+                    "floor": "Concourse To Platform - 02",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 05",
+                    "floor": "Parking, Street To Unpaid Concourse",
+                    "location": "A Entrance"
+                },
+                {
+                    "name": "Lift No 06",
+                    "floor": "Parking To Unpaid Concourse",
+                    "location": "Near EFO 2"
+                },
+                {
+                    "name": "Lift No 07",
+                    "floor": "Street, Intermediate To Unpaid Concourse",
+                    "location": "B Entrance"
+                }
+            ]
+        },
+        {
+            "station_name": "Meenambakkam Metro",
+            "alias": "Meenambakkam",
+            "platforms": [
+                {
+                    "platform_no": 1,
+                    "direction": "Towards Chennai Airport"
+                },
+                {
+                    "platform_no": 2,
+                    "direction": "Towards Wimco Nagar Depot Metro & Towards Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro"
+                }
+            ],
+            "lifts_escalators": [
+                {
+                    "name": "Lift No 1",
+                    "floor": "Street To Unpaid Concourse",
+                    "location": "A2 Entrance"
+                },
+                {
+                    "name": "Lift No 2",
+                    "floor": "Street To Unpaid Concourse",
+                    "location": "B2 Entrance"
+                },
+                {
+                    "name": "Lift No 3",
+                    "floor": "Concourse To Platform 1",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 4",
+                    "floor": "Concourse To Platform 2",
+                    "location": "-"
+                }
+            ]
+        },
+        {
+            "station_name": "OTA-Nanganallur Road",
+            "alias": "Nanganallur Road",
+            "platforms": [
+                {
+                    "platform_no": 1,
+                    "direction": "Towards Chennai Airport"
+                },
+                {
+                    "platform_no": 2,
+                    "direction": "Towards Wimco Nagar Depot Metro"
+                }
+            ],
+            "lifts_escalators": [
+                {
+                    "name": "Lift No 01",
+                    "floor": "Street To Concourse",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 02",
+                    "floor": "Concourse To Platform -1",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 03",
+                    "floor": "Concourse To Platform -2",
+                    "location": "-"
+                }
+            ]
+        },
+        {
+            "station_name": "Arignar Anna Alandur Metro",
+            "alias": "Alandur",
+            "platforms": [
+                {
+                    "platform_no": 1,
+                    "direction": "Towards Chennai Airport"
+                },
+                {
+                    "platform_no": 2,
+                    "direction": "Towards Wimco Nagar Depot Metro"
+                },
+                {
+                    "platform_no": 3,
+                    "direction": "Towards St.Thomas Mount Metro & Chennai Airport"
+                },
+                {
+                    "platform_no": 4,
+                    "direction": "Towards Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro"
+                }
+            ],
+            "lifts_escalators": [
+                {
+                    "name": "Escalator No 8",
+                    "floor": "Street To Platform 1",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 18",
+                    "floor": "Platform 1 To Platform 3",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 24",
+                    "floor": "Platform 3 To Platform 1",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 10",
+                    "floor": "Platform 1 To Street",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 6",
+                    "floor": "Street To Platform 2",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 20",
+                    "floor": "Platform 2 To Platform 4",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 22",
+                    "floor": "Platform 4 To Platform 2",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 12",
+                    "floor": "Platform 2 To Street",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 1",
+                    "floor": "Street To Platform 1 & Platform 3",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 2",
+                    "floor": "Street To Platform 1 & Platform 3",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 3",
+                    "floor": "Street To Platform 2 & Platform 4",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 4",
+                    "floor": "Street To Platform 2 & Platform 4",
+                    "location": "-"
+                }
+            ]
+        },
+        {
+            "station_name": "Guindy Metro",
+            "alias": "Guindy",
+            "platforms": [
+                {
+                    "platform_no": 1,
+                    "direction": "Towards Chennai Airport"
+                },
+                {
+                    "platform_no": 2,
+                    "direction": "Towards Wimco Nagar Depot Metro"
+                }
+            ],
+            "lifts_escalators": [
+                {
+                    "name": "Escalator No 1",
+                    "floor": "Street To Unpaid Concourse",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 5",
+                    "floor": "Paid Concourse To Mechanical",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 7",
+                    "floor": "Mechanical To Platform 1",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 8",
+                    "floor": "Mechanical To Platform 2",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 2",
+                    "floor": "Street To Unpaid Concourse",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 3",
+                    "floor": "Concourse To Platform 1",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 4",
+                    "floor": "Concourse To Platform 2",
+                    "location": "-"
+                }
+            ]
+        },
+        {
+            "station_name": "Little Mount Metro",
+            "alias": "Little Mount",
+            "platforms": [
+                {
+                    "platform_no": 1,
+                    "direction": "Towards Chennai Airport"
+                },
+                {
+                    "platform_no": 2,
+                    "direction": "Towards Wimco Nagar Depot Metro"
+                }
+            ],
+            "lifts_escalators": [
+                {
+                    "name": "Escalator No 6",
+                    "floor": "Platform 1 To Link Bridge",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 7",
+                    "floor": "Link Bridge To Platform 1",
+                    "location": "A Entrance"
+                },
+                {
+                    "name": "Escalator No 4",
+                    "floor": "Street To Linkbridge",
+                    "location": "B Entrance"
+                },
+                {
+                    "name": "Lift No 01",
+                    "floor": "Concourse To Street",
+                    "location": "A Entrance"
+                },
+                {
+                    "name": "Lift No 02",
+                    "floor": "Concourse To Street",
+                    "location": "B Entrance"
+                }
+            ]
+        },
+        {
+            "station_name": "Saidapet Metro",
+            "alias": "Saidapet",
+            "platforms": [
+                {
+                    "platform_no": 1,
+                    "direction": "Towards Chennai Airport"
+                },
+                {
+                    "platform_no": 2,
+                    "direction": "Towards Wimco Nagar Depot Metro"
+                }
+            ],
+            "lifts_escalators": [
+                {
+                    "name": "Escalator No 1",
+                    "floor": "Unpaid Concourse To Street",
+                    "location": "A1 Entrance"
+                },
+                {
+                    "name": "Escalator No 2",
+                    "floor": "Street To Unpaid Concourse",
+                    "location": "A1 Entrance"
+                },
+                {
+                    "name": "Escalator No 3",
+                    "floor": "Unpaid Concourse To Street",
+                    "location": "B2 Entrance"
+                },
+                {
+                    "name": "Escalator No 4",
+                    "floor": "Street To Unpaid Concourse",
+                    "location": "B2 Entrance"
+                },
+                {
+                    "name": "Escalator No 5",
+                    "floor": "Unpaid Concourse To Street",
+                    "location": "A2 Entrance"
+                },
+                {
+                    "name": "Escalator No 6",
+                    "floor": "Platform To Concourse",
+                    "location": "EFO 02"
+                },
+                {
+                    "name": "Escalator No 7",
+                    "floor": "Concourse To Platform",
+                    "location": "EFO 01"
+                },
+                {
+                    "name": "Lift No 1",
+                    "floor": "Street To Unpaid Concourse",
+                    "location": "A3 Entrance"
+                },
+                {
+                    "name": "Lift No 2",
+                    "floor": "Street To Unpaid Concourse",
+                    "location": "B1 Entrance"
+                },
+                {
+                    "name": "Lift No 3",
+                    "floor": "Platform To Concourse",
+                    "location": "-"
+                }
+            ]
+        },
+        {
+            "station_name": "Nandanam Metro",
+            "alias": "Nandanam",
+            "platforms": [
+                {
+                    "platform_no": 1,
+                    "direction": "Towards Chennai Airport"
+                },
+                {
+                    "platform_no": 2,
+                    "direction": "Towards Wimco Nagar Depot Metro"
+                }
+            ],
+            "lifts_escalators": [
+                {
+                    "name": "Escalator No 1",
+                    "floor": "Street to Unpaid Concourse",
+                    "location": "A1 Entrance"
+                },
+                {
+                    "name": "Escalator No 3",
+                    "floor": "Street to Unpaid Concourse",
+                    "location": "B1 Entrance"
+                },
+                {
+                    "name": "Escalator No 5",
+                    "floor": "Street to Intermediate",
+                    "location": "B4 Entrance"
+                },
+                {
+                    "name": "Escalator No 6",
+                    "floor": "Street to Unpaid Concourse",
+                    "location": "A2 Entrance"
+                },
+                {
+                    "name": "Escalator No 5",
+                    "floor": "Intermediate to Street",
+                    "location": "B4 Entrance"
+                },
+                {
+                    "name": "Escalator No 8",
+                    "floor": "Concourse to Platform",
+                    "location": "EFO 01"
+                },
+                {
+                    "name": "Escalator No 11",
+                    "floor": "Concourse to Platform",
+                    "location": "EFO 02"
+                },
+                {
+                    "name": "Lift No 1",
+                    "floor": "Concourse to Street",
+                    "location": "B2 Entrance"
+                },
+                {
+                    "name": "Lift No 2",
+                    "floor": "Street to Unpaid Concourse",
+                    "location": "A3 Entrance"
+                },
+                {
+                    "name": "Lift No 3",
+                    "floor": "Concourse to Platform",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 4",
+                    "floor": "Concourse to Street",
+                    "location": "B3 Entrance"
+                },
+                {
+                    "name": "Lift No 5",
+                    "floor": "Concourse to Street",
+                    "location": "B3 Entrance"
+                }
+            ]
+        },
+        {
+            "station_name": "Teynampet Metro",
+            "alias": "Teynampet",
+            "platforms": [
+                {
+                    "platform_no": 1,
+                    "direction": "Towards Chennai Airport"
+                },
+                {
+                    "platform_no": 2,
+                    "direction": "Towards Wimco Nagar Depot Metro"
+                }
+            ],
+            "lifts_escalators": [
+                {
+                    "name": "Escalator No 2",
+                    "floor": "Street To Unpaid Concourse",
+                    "location": "A2 Entrance"
+                },
+                {
+                    "name": "Escalator No 3",
+                    "floor": "Street To Unpaid Concourse",
+                    "location": "B1 Entrance"
+                },
+                {
+                    "name": "Escalator No 4",
+                    "floor": "Street To Intermediate",
+                    "location": "B1 Entrance"
+                },
+                {
+                    "name": "Escalator No 5",
+                    "floor": "Street To Unpaid Concourse",
+                    "location": "B3 Entrance"
+                },
+                {
+                    "name": "Escalator No 6",
+                    "floor": "Street To Unpaid Concourse",
+                    "location": "A3 Entrance"
+                },
+                {
+                    "name": "Escalator No 8",
+                    "floor": "Concourse To Platform",
+                    "location": "EFO 02"
+                },
+                {
+                    "name": "Escalator No 11",
+                    "floor": "Concourse To Platform",
+                    "location": "EFO 01"
+                },
+                {
+                    "name": "Lift No 1",
+                    "floor": "Concourse To Street",
+                    "location": "A1 Entrance"
+                },
+                {
+                    "name": "Lift No 2",
+                    "floor": "Concourse To Street",
+                    "location": "B2 Entrance"
+                },
+                {
+                    "name": "Lift No 3",
+                    "floor": "Near station control room",
+                    "location": "-"
+                }
+            ]
+        }, 
+        {
+            "station_name": "AG - DMS Metro",
+            "alias": "AG - DMS",
+            "platforms": [
+                {
+                    "platform_no": 1,
+                    "direction": "Towards Chennai Airport"
+                },
+                {
+                    "platform_no": 2,
+                    "direction": "Towards Wimco Nagar Depot Metro"
+                }
+            ],
+            "lifts_escalators": [
+                {
+                    "name": "Escalator No 1",
+                    "floor": "Street To Concourse",
+                    "location": "A1 Entrance"
+                },
+                {
+                    "name": "Escalator No 2",
+                    "floor": "Concourse To Street",
+                    "location": "A1 Entrance"
+                },
+                {
+                    "name": "Escalator No 3",
+                    "floor": "Concourse To Street",
+                    "location": "B1 Entrance"
+                },
+                {
+                    "name": "Escalator No 5",
+                    "floor": "Intermediate To Street",
+                    "location": "A3 Entrance"
+                },
+                {
+                    "name": "Escalator No 7",
+                    "floor": "Platform To Concourse",
+                    "location": "EFO 01"
+                },
+                {
+                    "name": "Escalator No 9",
+                    "floor": "Platform To Concourse",
+                    "location": "EFO 02"
+                },
+                {
+                    "name": "Lift No 1",
+                    "floor": "Concourse To Street",
+                    "location": "A1 Entrance"
+                },
+                {
+                    "name": "Lift No 2",
+                    "floor": "Concourse to Street",
+                    "location": "B3 Entrance"
+                },
+                {
+                    "name": "Lift No 3",
+                    "floor": "Concourse to Platform",
+                    "location": "-"
+                }
+            ]
+        },
+        {
+            "station_name": "Thousand Lights Metro",
+            "alias": "Thousand Lights",
+            "platforms": [
+                {
+                    "platform_no": 1,
+                    "direction": "Towards Chennai Airport"
+                },
+                {
+                    "platform_no": 2,
+                    "direction": "Towards Wimco Nagar Depot Metro"
+                }
+            ],
+            "lifts_escalators": [
+                {
+                    "name": "Escalator No 1",
+                    "floor": "Concourse to Street",
+                    "location": "A1 Entrance"
+                },
+                {
+                    "name": "Escalator No 5",
+                    "floor": "Concourse to Street",
+                    "location": "A4 Entrance"
+                },
+                {
+                    "name": "Escalator No 6",
+                    "floor": "Concourse to Street",
+                    "location": "A4 Entrance"
+                },
+                {
+                    "name": "Escalator No 7",
+                    "floor": "Platform to Concourse",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 10",
+                    "floor": "Platform to Concourse",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 1",
+                    "floor": "Concourse to street",
+                    "location": "A3 Entrance"
+                },
+                {
+                    "name": "Lift No 2",
+                    "floor": "Concourse to street",
+                    "location": "B3 Entrance"
+                },
+                {
+                    "name": "Lift No 3",
+                    "floor": "Concourse to Platform near to SCR",
+                    "location": "-"
+                }
+            ]
+        },
+        {
+            "station_name": "LIC Metro",
+            "alias": "LIC",
+            "platforms": [
+                {
+                    "platform_no": 1,
+                    "direction": "Towards Chennai Airport"
+                },
+                {
+                    "platform_no": 2,
+                    "direction": "Towards Wimco Nagar Depot Metro"
+                }
+            ],
+            "lifts_escalators": [
+                {
+                    "name": "Escalator No 3",
+                    "floor": "Intermediate to Street",
+                    "location": "B2 Entrance"
+                },
+                {
+                    "name": "Escalator No 4",
+                    "floor": "Concourse to Intermediate",
+                    "location": "B2 Entrance"
+                },
+                {
+                    "name": "Escalator No 7",
+                    "floor": "Concourse to Street",
+                    "location": "A3 Entrance"
+                },
+                {
+                    "name": "Escalator No 8",
+                    "floor": "Street to Concourse",
+                    "location": "A3 Entrance"
+                },
+                {
+                    "name": "Escalator No 9",
+                    "floor": "Platform to Concourse",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 12",
+                    "floor": "Platform to Concourse",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 1",
+                    "floor": "Concourse to Street",
+                    "location": "B1 Entrance"
+                },
+                {
+                    "name": "Lift No 2",
+                    "floor": "Concourse to Street",
+                    "location": "B4 Entrance"
+                },
+                {
+                    "name": "Lift No 3",
+                    "floor": "Concourse to Platform",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 4",
+                    "floor": "Concourse to Street",
+                    "location": "A1 Entrance"
+                },
+                {
+                    "name": "Lift No 5",
+                    "floor": "Concourse to street",
+                    "location": "A1 Entrance"
+                }
+            ]
+        },
+        {
+            "station_name": "Government Estate Metro",
+            "alias": "Government Estate",
+            "platforms": [
+                {
+                    "platform_no": 1,
+                    "direction": "Towards Chennai Airport"
+                },
+                {
+                    "platform_no": 2,
+                    "direction": "Towards Wimco Nagar Depot Metro"
+                }
+            ],
+            "lifts_escalators": [
+                {
+                    "name": "Escalator No 2",
+                    "floor": "Concourse to Street",
+                    "location": "B1 Entrance"
+                },
+                {
+                    "name": "Escalator No 4",
+                    "floor": "Concourse to Street",
+                    "location": "B2 Entrance"
+                },
+                {
+                    "name": "Escalator No 6",
+                    "floor": "Concourse to Street",
+                    "location": "A4 Entrance"
+                },
+                {
+                    "name": "Escalator No 7",
+                    "floor": "Platform To Concourse",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 10",
+                    "floor": "Platform To Concourse",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 1",
+                    "floor": "Concourse to Street",
+                    "location": "A1 Entrance"
+                },
+                {
+                    "name": "Lift No 2",
+                    "floor": "Concourse to Street",
+                    "location": "A3 Entrance"
+                },
+                {
+                    "name": "Lift No 3",
+                    "floor": "Concourse to Platform",
+                    "location": "-"
+                }
+            ]
+        },
+        {
+            "station_name": "Puratchi Thalaivar Dr. M.G.Ramachandran Central Metro",
+            "alias": "Chennai Central",
+            "platforms": [
+                {
+                    "platform_no": 1,
+                    "direction": "Towards St.Thomas Mount Metro & Chennai Airport"
+                },
+                {
+                    "platform_no": 2,
+                    "direction": "Towards St.Thomas Mount Metro & Chennai Airport"
+                },
+                {
+                    "platform_no": 5,
+                    "direction": "Towards Chennai Airport"
+                },
+                {
+                    "platform_no": 6,
+                    "direction": "Towards Wimco Nagar Depot Metro"
+                }
+            ],
+            "lifts_escalators": [
+                {
+                    "name": "Escalator No 1",
+                    "floor": "Street To Unpaid Concourse",
+                    "location": "B1 Entrance"
+                },
+                {
+                    "name": "Escalator No 2",
+                    "floor": "Unpaid Concourse To Street",
+                    "location": "B1 Entrance"
+                },
+                {
+                    "name": "Escalator No 3",
+                    "floor": "Subway 1 To Street",
+                    "location": "Towards Park Station"
+                },
+                {
+                    "name": "Escalator No 39",
+                    "floor": "Street To Subway 1",
+                    "location": "Towards Park Station"
+                },
+                {
+                    "name": "Escalator No 16",
+                    "floor": "Unpaid Concourse to Street",
+                    "location": "B5 Entrance"
+                },
+                {
+                    "name": "Escalator No 38",
+                    "floor": "Unpaid Concourse To Subway 1",
+                    "location": "B3 & B4 Entrances"
+                },
+                {
+                    "name": "Escalator No 37",
+                    "floor": "Subway 1 To Unpaid Concourse",
+                    "location": "B3 & B4 Entrances"
+                },
+                {
+                    "name": "Escalator No 33",
+                    "floor": "Subway 1 To Street",
+                    "location": "B3 & B4 Entrances"
+                },
+                {
+                    "name": "Escalator No 36",
+                    "floor": "Street To Subway 1",
+                    "location": "B3 & B4 Entrances"
+                },
+                {
+                    "name": "Escalator No 41",
+                    "floor": "Unpaid Concourse To Subway 2",
+                    "location": "A1 & A2 Entrances"
+                },
+                {
+                    "name": "Escalator No 42",
+                    "floor": "Subway 2 To Unpaid Concourse",
+                    "location": "A1 & A2 Entrances"
+                },
+                {
+                    "name": "Escalator No 34",
+                    "floor": "Subway 2 To Street",
+                    "location": "A1 & A2 Entrances"
+                },
+                {
+                    "name": "Escalator No 40",
+                    "floor": "Street To Subway 2",
+                    "location": "A1 & A2 Entrances"
+                },
+                {
+                    "name": "Escalator No 45",
+                    "floor": "Unpaid Concourse To Subway 2",
+                    "location": "A3 Entrance"
+                },
+                {
+                    "name": "Escalator No 46",
+                    "floor": "Subway 2 To Unpaid Concourse",
+                    "location": "A3 Entrance"
+                },
+                {
+                    "name": "Escalator No 43",
+                    "floor": "Subway 2 To Street",
+                    "location": "A3 Entrance"
+                },
+                {
+                    "name": "Escalator No 44",
+                    "floor": "Street To Subway 2",
+                    "location": "A3 Entrance"
+                },
+                {
+                    "name": "Escalator No 35",
+                    "floor": "Subway 2 To Street",
+                    "location": "Central Bus Stop"
+                },
+                {
+                    "name": "Escalator No 47",
+                    "floor": "Street To Subway 2",
+                    "location": "Central Bus Stop"
+                },
+                {
+                    "name": "Escalator No 6",
+                    "floor": "Street To Subway 3",
+                    "location": "Towards Central"
+                },
+                {
+                    "name": "Escalator No 7",
+                    "floor": "Subway 3 To Street",
+                    "location": "Towards Central"
+                },
+                {
+                    "name": "Escalator No 40",
+                    "floor": "Subway 3 To Street",
+                    "location": "Towards GH"
+                },
+                {
+                    "name": "Escalator No 29",
+                    "floor": "Paid Concourse To Platform 1 & 2",
+                    "location": "EFO 01"
+                },
+                {
+                    "name": "Escalator No 48",
+                    "floor": "Platform 1 & 2 To Paid Concourse",
+                    "location": "EFO 01"
+                },
+                {
+                    "name": "Escalator No 30",
+                    "floor": "Platform 1 & 2 To Platform 5 & 6",
+                    "location": "EFO 01"
+                },
+                {
+                    "name": "Escalator No 49",
+                    "floor": "Platform 5 & 6 To Platform 1 & 2",
+                    "location": "EFO 01"
+                },
+                {
+                    "name": "Escalator No 21",
+                    "floor": "Paid Concourse To Platform 1 & 2",
+                    "location": "EFO 02"
+                },
+                {
+                    "name": "Escalator No 22",
+                    "floor": "Platform 1 & 2 To Paid Concourse",
+                    "location": "EFO 02"
+                },
+                {
+                    "name": "Escalator No 25",
+                    "floor": "Platform 1 & 2 To Platform 5 & 6",
+                    "location": "EFO 02"
+                },
+                {
+                    "name": "Escalator No 26",
+                    "floor": "Platform 5 & 6 To Platform 1 & 2",
+                    "location": "EFO 02"
+                },
+                {
+                    "name": "Lift No 1",
+                    "floor": "Concourse To Street",
+                    "location": "B2 Entrance"
+                },
+                {
+                    "name": "Lift No 2",
+                    "floor": "Concourse To Street",
+                    "location": "A1 & A2 Entrances"
+                },
+                {
+                    "name": "Lift No 15",
+                    "floor": "Concourse To Subway 2",
+                    "location": "A1 & A2 Entrances"
+                },
+                {
+                    "name": "Lift No 16",
+                    "floor": "Subway 2 To Street",
+                    "location": "A1 & A2 Entrances"
+                },
+                {
+                    "name": "Lift No 3",
+                    "floor": "Concourse To Subway 2",
+                    "location": "A3 Entrance"
+                },
+                {
+                    "name": "Lift No 17",
+                    "floor": "Subway 2 To Street",
+                    "location": "A3 Entrance"
+                },
+                {
+                    "name": "Lift No 5",
+                    "floor": "Concourse To Subway 1",
+                    "location": "B3 & B4 Entrances"
+                },
+                {
+                    "name": "Lift No 13",
+                    "floor": "Subway 1 To Street",
+                    "location": "B3 & B4 Entrances"
+                },
+                {
+                    "name": "Lift No 8",
+                    "floor": "Concourse To Platform 1 & 2",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 18",
+                    "floor": "Platform 1 & 2 To Platform 5 & 6",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 19",
+                    "floor": "Subway 3 To Street",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 20",
+                    "floor": "Subway 3 To Street",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 14",
+                    "floor": "Subway 1 To Street",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 11",
+                    "floor": "Subway 2 To Street",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 12",
+                    "floor": "Subway 2 To Street",
+                    "location": "-"
+                }
+            ]
+        },
+        {
+            "station_name": "Highcourt Metro",
+            "alias": "Highcourt",
+            "platforms": [
+                {
+                    "platform_no": 1,
+                    "direction": "Towards Chennai Airport"
+                },
+                {
+                    "platform_no": 2,
+                    "direction": "Towards Wimco Nagar Depot Metro"
+                }
+            ],
+            "lifts_escalators": [
+                {
+                    "name": "Escalator No 1",
+                    "floor": "Street to Unpaid Concourse",
+                    "location": "B1 Entrance"
+                },
+                {
+                    "name": "Escalator No 3",
+                    "floor": "Street to Unpaid Concourse",
+                    "location": "A1 Entrance"
+                },
+                {
+                    "name": "Escalator No 5",
+                    "floor": "Street to Unpaid Concourse",
+                    "location": "A2 Entrance"
+                },
+                {
+                    "name": "Escalator No 6",
+                    "floor": "Concourse to Platform",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 9",
+                    "floor": "Concourse to Platform",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 1",
+                    "floor": "Concourse to Street",
+                    "location": "A1 Entrance"
+                },
+                {
+                    "name": "Lift No 2",
+                    "floor": "Concourse to Street",
+                    "location": "A4 Entrance"
+                },
+                {
+                    "name": "Lift No 3",
+                    "floor": "Concourse to Street",
+                    "location": "A2 Entrance"
+                },
+                {
+                    "name": "Lift No 4",
+                    "floor": "Concourse to Street",
+                    "location": "B2 Entrance"
+                },
+                {
+                    "name": "Lift No 5",
+                    "floor": "Concourse to Platform",
+                    "location": "-"
+                }
+            ]
+        },
+        {
+            "station_name": "Mannadi Metro",
+            "alias": "Mannadi",
+            "platforms": [
+                {
+                    "platform_no": 1,
+                    "direction": "Towards Chennai Airport"
+                },
+                {
+                    "platform_no": 2,
+                    "direction": "Towards Wimco Nagar Depot Metro"
+                }
+            ],
+            "lifts_escalators": [
+                {
+                    "name": "Escalator No 2",
+                    "floor": "Street to Unpaid Concourse",
+                    "location": "B1 Entrance"
+                },
+                {
+                    "name": "Escalator No 3",
+                    "floor": "Street to Unpaid Concourse",
+                    "location": "A1 Entrance"
+                },
+                {
+                    "name": "Escalator No 4",
+                    "floor": "Concourse To Platform",
+                    "location": "EFO 02"
+                },
+                {
+                    "name": "Escalator No 7",
+                    "floor": "Concourse To Platform",
+                    "location": "EFO 01"
+                },
+                {
+                    "name": "Lift No 1",
+                    "floor": "Concourse To Street",
+                    "location": "B1 Entrance"
+                },
+                {
+                    "name": "Lift No 2",
+                    "floor": "Street to Unpaid Concourse",
+                    "location": "A1 Entrance"
+                },
+                {
+                    "name": "Lift No 3",
+                    "floor": "Concourse To Platform",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 4",
+                    "floor": "Concourse To Platform",
+                    "location": "-"
+                }
+            ]
+        },        
+        {
+            "station_name": "Wimco Nagar Depot Station",
+            "alias": [
+                "Wimco Nagar Depot Metro",
+                "Wimco Nagar Depot"
+            ],
+            "platforms": [
+                {
+                    "platform_no": "Platform No 1 or SBL 1",
+                    "direction": "Towards Chennai Airport"
+                }
+            ],
+            "lifts_escalators": [
+                {
+                    "name": "Escalator No 01",
+                    "floor": "-",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 01",
+                    "floor": "Concourse To Street",
+                    "location": "Main Entrance"
+                },
+                {
+                    "name": "Lift No 01",
+                    "floor": "Platform To Street",
+                    "location": "Main Entrance"
+                },
+                {
+                    "name": "Lift No 02",
+                    "floor": "Concourse To Street",
+                    "location": "Main Entrance"
+                },
+                {
+                    "name": "Lift No 02",
+                    "floor": "Platform To Street",
+                    "location": "Main Entrance"
+                }
+            ]
+        },
+        {
+            "station_name": "Wimco Nagar Metro",
+            "alias": [
+                "Wimco Nagar"
+            ],
+            "platforms": [
+                {
+                    "platform_no": "Platform No 1",
+                    "direction": "Towards Chennai Airport"
+                },
+                {
+                    "platform_no": "Platform No 2",
+                    "direction": "Towards Wimco Nagar Depot Metro"
+                }
+            ],
+            "lifts_escalators": [
+                {
+                    "name": "Escalator No 1",
+                    "floor": "Concourse To Platform 2",
+                    "location": "Upstairs"
+                },
+                {
+                    "name": "Escalator No 2",
+                    "floor": "Concourse To Platform 2",
+                    "location": "Downstairs"
+                },
+                {
+                    "name": "Escalator No 7",
+                    "floor": "Concourse To Platform 1",
+                    "location": "Downstairs"
+                },
+                {
+                    "name": "Escalator No 8",
+                    "floor": "Concourse To Platform 1",
+                    "location": "Upstairs"
+                },
+                {
+                    "name": "Escalator No 9",
+                    "floor": "Street To Concourse",
+                    "location": "E1 Entrance"
+                },
+                {
+                    "name": "Lift No 1",
+                    "floor": "Concourse To Platform 2",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 2",
+                    "floor": "Concourse To Platform 1",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 3",
+                    "floor": "Street To Concourse",
+                    "location": "E1 Entrance"
+                },
+                {
+                    "name": "Lift No 4",
+                    "floor": "Street To Concourse",
+                    "location": "E3 Entrance"
+                }
+            ]
+        },
+        {
+            "station_name": "Thiruvotriyur Metro",
+            "alias": [
+                "Thiruvotriyur"
+            ],
+            "platforms": [
+                {
+                    "platform_no": "Platform No 1",
+                    "direction": "Towards Chennai Airport"
+                },
+                {
+                    "platform_no": "Platform No 2",
+                    "direction": "Towards Wimco Nagar Depot Metro"
+                }
+            ],
+            "lifts_escalators": [
+                {
+                    "name": "Escalator No 3",
+                    "floor": "Paid Concourse To Platform-02",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 4",
+                    "floor": "Platform-02 To Paid Concourse",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 5",
+                    "floor": "Paid Concourse To Platform-01",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 6",
+                    "floor": "Platform-01 To Paid Concourse",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 9",
+                    "floor": "Street To Concourse",
+                    "location": "E2 Entrance"
+                },
+                {
+                    "name": "Lift No 1",
+                    "floor": "Concourse To Platform 02",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 2",
+                    "floor": "Concourse To Platform 01",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 3",
+                    "floor": "Concourse to Street",
+                    "location": "E2 Entrance"
+                },
+                {
+                    "name": "Lift No 4",
+                    "floor": "Concourse to Street",
+                    "location": "E3 Entrance"
+                }
+            ]
+        },
+        {
+            "station_name": "Thiruvottriyur Theradi Metro",
+            "alias": [
+                "Thiruvottriyur Theradi"
+            ],
+            "platforms": [
+                {
+                    "platform_no": "Platform No 1",
+                    "direction": "Towards Chennai Airport"
+                },
+                {
+                    "platform_no": "Platform No 2",
+                    "direction": "Towards Wimco Nagar Depot Metro"
+                }
+            ],
+            "lifts": [
+                {
+                    "name": "Lift No 1",
+                    "floor": "Street to Platform Unpaid Area",
+                    "location": "E1 Entrance"
+                },
+                {
+                    "name": "Lift No 2",
+                    "floor": "Street to Platform Unpaid Area",
+                    "location": "E1 Entrance"
+                },
+                {
+                    "name": "Lift No 3",
+                    "floor": "Street to Platform Unpaid Area",
+                    "location": "E2 Entrance"
+                },
+                {
+                    "name": "Lift No 4",
+                    "floor": "Street to Platform Unpaid Area",
+                    "location": "E2 Entrance"
+                },
+                {
+                    "name": "Lift No 5",
+                    "floor": "Street to Platform Unpaid Area",
+                    "location": "E1 Entrance"
+                },
+                {
+                    "name": "Lift No 7",
+                    "floor": "Street to Platform Unpaid Area",
+                    "location": "E2 Entrance"
+                }
+            ]
+        },
+        {
+        "station_name": "Kaladipet Metro",
+        "alias": [
+            "Kaladipet"
+        ],
+        "platforms": [
+            {
+                "platform_no": "Platform No 1",
+                "direction": "Towards Chennai Airport"
+            },
+            {
+                "platform_no": "Platform No 2",
+                "direction": "Towards Wimco Nagar Depot Metro"
+            }
+        ],
+        "lifts": [
+            {
+                "name": "Escalator No 10",
+                "floor": "Street To Concourse",
+                "location": "E1 Entrance"
+            },
+            {
+                "name": "Escalator No 9",
+                "floor": "Street To Concourse",
+                "location": "E2 Entrance"
+            },
+            {
+                "name": "Escalator No 3",
+                "floor": "Concourse To Platform 2",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No 4",
+                "floor": "Concourse To Platform 2",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No 5",
+                "floor": "Concourse To Platform 1",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No 6",
+                "floor": "Concourse To Platform 1",
+                "location": "-"
+            },
+            {
+                "name": "Lift No 1",
+                "floor": "Concourse To Platform 1",
+                "location": "-"
+            },
+            {
+                "name": "Lift No 2",
+                "floor": "Concourse To Platform 2",
+                "location": "-"
+            },
+            {
+                "name": "Lift No 3",
+                "floor": "Concourse To Street",
+                "location": "E1 Entrance"
+            },
+            {
+                "name": "Lift No 4",
+                "floor": "Concourse To Street",
+                "location": "E3 Entrance"
+            },
+            {
+                "name": "Lift No 5",
+                "floor": "Concourse To Street",
+                "location": "E3 Entrance"
+            }
+        ]
+    },
+    {
+        "station_name": "Tollgate Metro",
+        "alias": [
+                "Tollgate"
+        ],
+        "platforms": [
+                {
+                    "platform_no": "Platform No 1",
+                    "direction": "Towards Chennai Airport"
+                },
+                {
+                    "platform_no": "Platform No 2",
+                    "direction": "Towards Wimco Nagar Depot Metro"
+                }
+        ],
+        "lifts": [
+                {
+                    "name": "Escalator No 3",
+                    "floor": "Platform 01 To Concourse",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 4",
+                    "floor": "Platform 02 To Concourse",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 5",
+                    "floor": "Concourse To Platform 01",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 6",
+                    "floor": "Concourse To Platform 02",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 9",
+                    "floor": "Street level To Concourse",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 1",
+                    "floor": "Concourse To Platform 02",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 2",
+                    "floor": "Concourse To Platform 01",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 3",
+                    "floor": "Street level To Concourse",
+                    "location": "E1 Entrance"
+                },
+                {
+                    "name": "Lift No 4",
+                    "floor": "Street level To Concourse",
+                    "location": "-"
+                }
+        ]
+    },
+    {
+        "station_name": "New Washermenpet Metro",
+        "alias": [
+                "New Washermenpet"
+        ],
+        "platforms": [
+                {
+                    "platform_no": "Platform No 1",
+                    "direction": "Towards Chennai Airport"
+                },
+                {
+                    "platform_no": "Platform No 2",
+                    "direction": "Towards Wimco Nagar Depot Metro"
+                }
+        ],
+        "lifts": [
+                {
+                    "name": "Escalator No 5",
+                    "floor": "Street To Unpaid Concourse",
+                    "location": "E3 Entrance"
+                },
+                {
+                    "name": "Escalator No 2",
+                    "floor": "Paid Concourse To Pl-01",
+                    "location": "-"
+                },
+                {
+                    "name": "Escalator No 3",
+                    "floor": "Paid Concourse To Pl-02",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 3 & 4",
+                    "floor": "Street To Unpaid Concourse",
+                    "location": "E1 Entrance"
+                },
+                {
+                    "name": "Lift No 5",
+                    "floor": "Street To Unpaid Concourse",
+                    "location": "E2 Entrance"
+                },
+                {
+                    "name": "Lift No 7",
+                    "floor": "Street To Unpaid Concourse",
+                    "location": "E4 Entrance"
+                },
+                {
+                    "name": "Lift No 2",
+                    "floor": "Paid Concourse To Pl-01",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 1",
+                    "floor": "Paid Concourse To Pl-02",
+                    "location": "-"
+                },
+                {
+                    "name": "Lift No 6",
+                    "floor": "Pd Area",
+                    "location": "-"
+                }
+        ]
+    },
+    {
+        "station_name": "Tondiarpet Metro",
+        "alias": [
+            "Tondiarpet"
+        ],
+        "platforms": [
+            {
+                "platform_no": "Platform No 1",
+                "direction": "Towards Chennai Airport"
+            },
+            {
+                "platform_no": "Platform No 2",
+                "direction": "Towards Wimco Nagar Depot Metro"
+            }
+        ],
+        "lifts": [
+            {
+                "name": "Lift No 1",
+                "floor": "Street level to concourse",
+                "location": "E4 Entrance"
+            },
+            {
+                "name": "Lift No 2",
+                "floor": "Street level to concourse",
+                "location": "E3 Entrance"
+            },
+            {
+                "name": "Lift No 3",
+                "floor": "Platform to Concourse",
+                "location": "Concourse Middle"
+            }
+        ],
+        "escalators": [
+            {
+                "name": "Escalator No 3",
+                "floor": "Platform to Concourse",
+                "location": "Near EFO-02"
+            },
+            {
+                "name": "Escalator No 4",
+                "floor": "Concourse to Platform",
+                "location": "Near EFO-02"
+            },
+            {
+                "name": "Escalator No 8",
+                "floor": "Concourse to Street",
+                "location": "E1 Entrance"
+            },
+            {
+                "name": "Escalator No 10",
+                "floor": "Concourse to Street",
+                "location": "E2 Entrance"
+            },
+            {
+                "name": "Escalator No 11",
+                "floor": "Concourse to Street",
+                "location": "E3 Entrance"
+            },
+            {
+                "name": "Escalator No 12",
+                "floor": "Street level to concourse",
+                "location": "E3 Entrance"
+            }
+        ]
+    },
+    {
+        "station_name": "Thiyagaraya College Metro",
+        "alias": [
+            "Thiyagaraya College"
+        ],
+        "platforms": [
+            {
+                "platform_no": "Platform No 1",
+                "direction": "Towards Chennai Airport"
+            },
+            {
+                "platform_no": "Platform No 2",
+                "direction": "Towards Wimco Nagar Depot Metro"
+            }
+        ],
+        "lifts": [
+            {
+                "name": "Lift No 1",
+                "floor": "Concourse to street",
+                "location": "E4 Entrance"
+            },
+            {
+                "name": "Lift No 2",
+                "floor": "Street to Unpaid Concourse",
+                "location": "E3 Entrance"
+            },
+            {
+                "name": "Lift No 3",
+                "floor": "Concourse to Platform",
+                "location": "-"
+            }
+        ],
+        "escalators": [
+            {
+                "name": "Escalator No 3",
+                "floor": "Platform To Concourse",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No 4",
+                "floor": "Concourse To Platform",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No 7",
+                "floor": "Unpaid Concourse To Street",
+                "location": "E2 Entrance"
+            },
+            {
+                "name": "Escalator No 9",
+                "floor": "Unpaid Concourse to Street",
+                "location": "E2 Entrance"
+            }
+        ]
+    },
+    {
+        "station_name": "Washermenpet Metro",
+        "alias": [
+            "Washermenpet"
+        ],
+        "platforms": [
+            {
+                "platform_no": "Platform No 1",
+                "direction": "Towards Chennai Airport"
+            },
+            {
+                "platform_no": "Platform No 2",
+                "direction": "Towards Wimco Nagar Depot Metro"
+            }
+        ],
+        "lifts": [
+            {
+                "name": "Lift No 1",
+                "floor": "Concourse To Street",
+                "location": "A2 Entrance"
+            },
+            {
+                "name": "Lift No 2",
+                "floor": "Concourse To Street",
+                "location": "B1 Entrance"
+            },
+            {
+                "name": "Lift No 3",
+                "floor": "Concourse To Platform",
+                "location": "-"
+            }
+        ],
+        "escalators": [
+            {
+                "name": "Escalator No 3",
+                "floor": "Concourse To Street",
+                "location": "A1 Entrance"
+            },
+            {
+                "name": "Escalator No 1",
+                "floor": "Concourse To Street",
+                "location": "B2 Entrance"
+            },
+            {
+                "name": "Escalator No 12",
+                "floor": "Concourse To Street",
+                "location": "B3 Entrance"
+            },
+            {
+                "name": "Escalator No 05",
+                "floor": "Concourse To Platform",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No 08",
+                "floor": "Concourse To Platform",
+                "location": "-"
+            }
+        ]
+    },
+    {
+        "station_name": "Egmore Metro",
+        "alias": "Egmore",
+        "platforms": [
+            {
+                "platform_no": 1,
+                "direction": "Towards St.Thomas Mount Metro Station"
+            },
+            {
+                "platform_no": 2,
+                "direction": "Towards Puratchi Thalaivar Dr. M.G.Ramachandran Central Metro"
+            }
+        ],
+        "lifts_escalators": [
+            {
+                "name": "Escalator No 1",
+                "floor": "Street To Unpaid Concourse",
+                "location": "A3 Entrance"
+            },
+            {
+                "name": "Escalator No 3",
+                "floor": "Street To Unpaid Concourse",
+                "location": "A1 Entrance"
+            },
+            {
+                "name": "Escalator No 4",
+                "floor": "Street To Unpaid Concourse",
+                "location": "B2 Entrance"
+            },
+            {
+                "name": "Escalator No 5",
+                "floor": "Street To Unpaid Concourse",
+                "location": "B2 Entrance"
+            },
+            {
+                "name": "Escalator No 8",
+                "floor": "Concourse To Platform",
+                "location": "EFO 01"
+            },
+            {
+                "name": "Escalator No 9",
+                "floor": "Concourse To Platform",
+                "location": "EFO 02"
+            },
+            {
+                "name": "Escalator No 10",
+                "floor": "Street To Unpaid Concourse",
+                "location": "A1 Entrance"
+            },
+            {
+                "name": "Lift No 01",
+                "floor": "Concourse To Street",
+                "location": "A2 Entrance"
+            },
+            {
+                "name": "Lift No 03",
+                "floor": "Concourse To Street",
+                "location": "B1 Entrance"
+            },
+            {
+                "name": "Lift No 05",
+                "floor": "Concourse To Platform",
+                "location": "-"
+            },
+            {
+                "name": "Lift No 06",
+                "floor": "Concourse To Platform",
+                "location": "-"
+            },
+            {
+                "name": "Lift No 08",
+                "floor": "Street To FOB",
+                "location": "A3 Entrance"
+            },
+            {
+                "name": "Lift No 09",
+                "floor": "Street To FOB",
+                "location": "A3 Entrance"
+            }
+        ]
+    },
+    {
+        "station_name": "Nehru Park",
+        "alias": "Nehru Park Metro",
+        "platforms": [
+            {
+                "platform_no": 1,
+                "direction": "Towards St.Thomas Mount Metro"
+            },
+            {
+                "platform_no": 2,
+                "direction": "Towards Puratchi Thalaivar Dr. M.G.Ramachandran Central Metro"
+            }
+        ],
+        "lifts_escalators": [
+            {
+                "name": "Escalator No 1",
+                "floor": "Street To Concourse Unpaid Area",
+                "location": "A3 Entrance"
+            },
+            {
+                "name": "Escalator No 3",
+                "floor": "Street To Concourse Unpaid Area",
+                "location": "B2 Entrance"
+            },
+            {
+                "name": "Escalator No 5",
+                "floor": "Street To Concourse Unpaid Area",
+                "location": "A2 Entrance"
+            },
+            {
+                "name": "Escalator No 11",
+                "floor": "Concourse To Platform Paid Area",
+                "location": "Towards Chennai Central"
+            },
+            {
+                "name": "Escalator No 14",
+                "floor": "Concourse To Platform Paid Area",
+                "location": "Towards St.Thomas Mount"
+            },
+            {
+                "name": "Lift No 1",
+                "floor": "Street To Concourse Unpaid Area",
+                "location": "A1 Entrance"
+            },
+            {
+                "name": "Lift No 2",
+                "floor": "Street To Concourse Unpaid Area",
+                "location": "B1 Entrance"
+            },
+            {
+                "name": "Lift No 3",
+                "floor": "Platform To Concourse Paid Area",
+                "location": "-"
+            }
+        ]
+    },
+    {
+        "station_name": "Kilpauk Metro",
+        "alias": "Kilpauk",
+        "platforms": [
+            {
+                "platform_no": 1,
+                "direction": "Towards Chennai Airport"
+            },
+            {
+                "platform_no": 2,
+                "direction": "Towards Puratchi Thalaivar Dr. M.G.Ramachandran Central Metro"
+            }
+        ],
+        "lifts_escalators": [
+            {
+                "name": "Escalator No 1",
+                "floor": "Unpaid Concourse To Street",
+                "location": "A2 Entrance"
+            },
+            {
+                "name": "Escalator No 2",
+                "floor": "Street To Unpaid Concourse",
+                "location": "A2 Entrance"
+            },
+            {
+                "name": "Escalator No 5",
+                "floor": "Unpaid Concourse To Street",
+                "location": "B3 Entrance"
+            },
+            {
+                "name": "Escalator No 7",
+                "floor": "Platform To Concourse",
+                "location": "EFO 02"
+            },
+            {
+                "name": "Escalator No 10",
+                "floor": "Platform To Concourse",
+                "location": "EFO 01"
+            },
+            {
+                "name": "Lift No 1",
+                "floor": "Street To Concourse",
+                "location": "A2 Entrance"
+            },
+            {
+                "name": "Lift No 2",
+                "floor": "Street To Concourse",
+                "location": "B2 Entrance"
+            },
+            {
+                "name": "Lift No 3",
+                "floor": "Concourse To Platform",
+                "location": "-"
+            },
+            {
+                "name": "Lift No 4",
+                "floor": "Street To Subway",
+                "location": "B3 Entrance"
+            },
+            {
+                "name": "Lift No 5",
+                "floor": "Street To Subway",
+                "location": "A3 Entrance"
+            }
+        ]
+    },
+    {
+        "station_name": "Pachaiyappa's College Metro",
+        "alias": ["Pachaiyappa's College","Pachaiyappa's Metro", "Pachaiyappa's"],
+        "platforms": [
+            {
+                "platform_no": 1,
+                "direction": "Towards Chennai Airport & St. Thomas Mount"
+            },
+            {
+                "platform_no": 2,
+                "direction": "Towards Puratchi Thalaivar Dr. M.G.Ramachandran Central Metro"
+            }
+        ],
+        "lifts_escalators": [
+            {
+                "name": "Escalator No 3",
+                "floor": "Street To Unpaid Concourse",
+                "location": "B3 Entrance"
+            },
+            {
+                "name": "Escalator No 5",
+                "floor": "Street To Unpaid Concourse",
+                "location": "A1 Entrance"
+            },
+            {
+                "name": "Escalator No 7",
+                "floor": "Concourse To Platform",
+                "location": "EFO 01"
+            },
+            {
+                "name": "Escalator No 10",
+                "floor": "Concourse To Platform",
+                "location": "EFO 02"
+            },
+            {
+                "name": "Lift No 1",
+                "floor": "Concourse To Street",
+                "location": "A1 Entrance"
+            },
+            {
+                "name": "Lift No 2",
+                "floor": "Concourse To Street",
+                "location": "B1 Entrance"
+            },
+            {
+                "name": "Lift No 3",
+                "floor": "Concourse To Platform",
+                "location": "-"
+            }
+        ]
+    },
+    {
+        "station_name": "Shenoy Nagar",
+        "alias": ["Shenoy Nagar Metro"],
+        "platforms": [
+            {
+                "platform_no": 1,
+                "direction": "Towards Airport"
+            },
+            {
+                "platform_no": 2,
+                "direction": "Towards Puratchi Thalaivar Dr. M.G.Ramachandran Central Metro"
+            }
+        ],
+        "lifts_escalators": [
+            {
+                "name": "Escalator No 1",
+                "floor": "Unpaid Concourse To Street",
+                "location": "B2 Entrance"
+            },
+            {
+                "name": "Escalator No 4",
+                "floor": "Unpaid Concourse To Street",
+                "location": "A3 Entrance"
+            },
+            {
+                "name": "Escalator No 5",
+                "floor": "Unpaid Concourse To Street",
+                "location": "A2 Entrance"
+            },
+            {
+                "name": "Escalator No 8",
+                "floor": "Unpaid Concourse To Street",
+                "location": "B3 Entrance"
+            },
+            {
+                "name": "Escalator No 9",
+                "floor": "Platform To Concourse",
+                "location": "EFO 2"
+            },
+            {
+                "name": "Escalator No 12",
+                "floor": "Platform To Concourse",
+                "location": "EFO 1"
+            },
+            {
+                "name": "Lift No 1",
+                "floor": "Unpaid Concourse To Street",
+                "location": "B1 Entrance"
+            },
+            {
+                "name": "Lift No 2",
+                "floor": "Unpaid Concourse To Street",
+                "location": "A1 Entrance"
+            },
+            {
+                "name": "Lift No 3",
+                "floor": "Concourse To Platform",
+                "location": "-"
+            }
+        ]
+    },
+    {
+        "station_name": "Anna Nagar East",
+        "alias": ["Anna Nagar East Metro"],
+        "platforms": [
+            {
+                "platform_no": 1,
+                "direction": "Towards Chennai Airport & St. Thomas Mount"
+            },
+            {
+                "platform_no": 2,
+                "direction": "Towards Puratchi Thalaivar Dr. M.G.Ramachandran Central Metro"
+            }
+        ],
+        "lifts_escalators": [
+            {
+                "name": "Escalator No 05",
+                "floor": "Street to Unpaid Concourse",
+                "location": "A2 Entrance"
+            },
+            {
+                "name": "Escalator No 04",
+                "floor": "Street to Unpaid Concourse",
+                "location": "A3 Entrance"
+            },
+            {
+                "name": "Escalator No 07",
+                "floor": "Street to Unpaid Concourse",
+                "location": "B3 Entrance"
+            },
+            {
+                "name": "Escalator No 12",
+                "floor": "Platform To Concourse",
+                "location": "EFO 01"
+            },
+            {
+                "name": "Escalator No 09",
+                "floor": "Platform To Concourse",
+                "location": "EFO 02"
+            },
+            {
+                "name": "Lift No 01",
+                "floor": "Concourse To Street",
+                "location": "A1 Entrance"
+            },
+            {
+                "name": "Lift No 02",
+                "floor": "Concourse To Street",
+                "location": "B1 Entrance"
+            },
+            {
+                "name": "Lift No 03",
+                "floor": "Concourse To Platform",
+                "location": "-"
+            },
+            {
+                "name": "Lift No 04",
+                "floor": "Concourse To Street",
+                "location": "B5 Entrance"
+            }
+        ]
+    },
+    {
+        "station_name": "Anna Nagar Tower",
+        "alias": ["Anna Nagar Tower Metro"],
+        "platforms": [
+            {
+                "platform_no": 1,
+                "direction": "Towards St. Thomas Mount Metro"
+            },
+            {
+                "platform_no": 2,
+                "direction": "Towards Puratchi Thalaivar Dr. M.G.Ramachandran Central Metro"
+            }
+        ],
+        "lifts_escalators": [
+            {
+                "name": "Escalator No 1",
+                "floor": "Unpaid Concourse To Street",
+                "location": "B2 Entrance"
+            },
+            {
+                "name": "Escalator No 3",
+                "floor": "Unpaid Concourse To Street",
+                "location": "A3 Entrance"
+            },
+            {
+                "name": "Escalator No 4",
+                "floor": "Unpaid Concourse To Street",
+                "location": "A2 Entrance"
+            },
+            {
+                "name": "Escalator No 9",
+                "floor": "Platform To Concourse",
+                "location": "EFO 02"
+            },
+            {
+                "name": "Escalator No 12",
+                "floor": "Platform To Concourse",
+                "location": "EFO 01"
+            },
+            {
+                "name": "Lift No 01",
+                "floor": "Unpaid Concourse To Street",
+                "location": "B1 Entrance"
+            },
+            {
+                "name": "Lift No 02",
+                "floor": "Unpaid Concourse To Street",
+                "location": "A1 Entrance"
+            },
+            {
+                "name": "Lift No 03",
+                "floor": "Paid Concourse To Platform",
+                "location": "-"
+            }
+        ]
+    },
+    {
+        "station_name": "Thirumangalam",
+        "alias": ["Thirumangalam Metro"],
+        "platforms": [
+            {
+                "platform_no": 1,
+                "direction": "Towards Chennai Airport"
+            },
+            {
+                "platform_no": 2,
+                "direction": "Towards Puratchi Thalaivar Dr. M.G.Ramachandran Central Metro"
+            }
+        ],
+        "lifts_escalators": [
+            {
+                "name": "Escalator No 3",
+                "floor": "Street to Unpaid Concourse",
+                "location": "A3 Entrance"
+            },
+            {
+                "name": "Escalator No 4",
+                "floor": "Street to Unpaid Concourse",
+                "location": "A2 Entrance"
+            },
+            {
+                "name": "Escalator No 6",
+                "floor": "Street to Unpaid Concourse",
+                "location": "B2 Entrance"
+            },
+            {
+                "name": "Escalator No 8",
+                "floor": "Concourse To Platform",
+                "location": "EFO 02"
+            },
+            {
+                "name": "Escalator No 11",
+                "floor": "Concourse To Platform",
+                "location": "EFO 01"
+            },
+            {
+                "name": "Lift No 01",
+                "floor": "Street to Unpaid Concourse",
+                "location": "A4 Entrance"
+            },
+            {
+                "name": "Lift No 02",
+                "floor": "Street to Unpaid Concourse",
+                "location": "A1 Entrance"
+            },
+            {
+                "name": "Lift No 03",
+                "floor": "Concourse To Platform",
+                "location": "-"
+            }
+        ]
+    },
+    {
+        "station_name": "Koyambedu",
+        "alias": ["Koyambedu Metro"],
+        "platforms": [
+            {
+                "platform_no": 1,
+                "direction": "Towards Chennai Airport"
+            },
+            {
+                "platform_no": 2,
+                "direction": "Towards Puratchi Thalaivar Dr. M.G.Ramachandran Central Metro"
+            }
+        ],
+        "lifts_escalators": [
+            {
+                "name": "Escalator No 1",
+                "floor": "Street To Unpaid Concourse",
+                "location": "A Entrance"
+            },
+            {
+                "name": "Escalator No 2",
+                "floor": "Street To Unpaid Concourse",
+                "location": "A Entrance"
+            },
+            {
+                "name": "Escalator No 3",
+                "floor": "Street To Unpaid Concourse",
+                "location": "B Entrance"
+            },
+            {
+                "name": "Escalator No 4",
+                "floor": "Concourse To Platform 01",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No 5",
+                "floor": "Concourse To Platform 01",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No 6",
+                "floor": "Concourse To Platform 01",
+                "location": "-"
+            },
+            {
+                "name": "Lift No 01",
+                "floor": "Street To Unpaid Concourse",
+                "location": "A Entrance"
+            },
+            {
+                "name": "Lift No 02",
+                "floor": "Paid concourse To Platform 01",
+                "location": "FOB"
+            },
+            {
+                "name": "Lift No 03",
+                "floor": "FOB To Platform 02",
+                "location": "-"
+            },
+            {
+                "name": "Lift No 04",
+                "floor": "Street To Unpaid Concourse",
+                "location": "D Entrance"
+            }
+        ]
+    },
+    {
+        "station_name": "Puratchi Thalaivi Dr.J.Jayalalithaa CMBT Metro",
+        "alias": [
+            "CMBT",
+            "CMBT Metro",
+            "Dr.J.Jayalalithaa CMBT Metro",
+            "Jayalalithaa CMBT Metro"
+        ],
+        "platforms": [
+            {
+                "platform_no": 1,
+                "direction": "Towards St.Thomas Mount Metro"
+            },
+            {
+                "platform_no": 2,
+                "direction": "Towards Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro"
+            }
+        ],
+        "lifts_escalators": [
+            {
+                "name": "Escalator No 1",
+                "floor": "Street To Unpaid Concourse",
+                "location": "C Entrance"
+            },
+            {
+                "name": "Escalator No 2",
+                "floor": "Street To Unpaid Concourse",
+                "location": "C Entrance"
+            },
+            {
+                "name": "Escalator No 3",
+                "floor": "Street To Unpaid Concourse",
+                "location": "B Entrance"
+            },
+            {
+                "name": "Escalator No 4",
+                "floor": "Street To Unpaid Concourse",
+                "location": "B Entrance"
+            },
+            {
+                "name": "Escalator No 5",
+                "floor": "Concourse To Platform 2",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No 6",
+                "floor": "Concourse To Platform 2",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No 7",
+                "floor": "Concourse To Platform 1",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No 8",
+                "floor": "Concourse To Platform 1",
+                "location": "-"
+            },
+            {
+                "name": "Lift No 1",
+                "floor": "Street To Unpaid Concourse",
+                "location": "C Entrance"
+            },
+            {
+                "name": "Lift No 2",
+                "floor": "Concourse To Platform 1",
+                "location": "-"
+            },
+            {
+                "name": "Lift No 3",
+                "floor": "Concourse To Platform 2",
+                "location": "-"
+            }
+        ]
+    },
+    {
+        "station_name": "Arumbakkam",
+        "alias": [
+            "Arumbakkam Metro"
+        ],
+        "platforms": [
+            {
+                "platform_no": 1,
+                "direction": "Towards Chennai Airport"
+            },
+            {
+                "platform_no": 2,
+                "direction": "Towards Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro"
+            }
+        ],
+        "lifts_escalators": [
+            {
+                "name": "Escalator No 1",
+                "floor": "Street To Unpaid Concourse",
+                "location": "A Entrance"
+            },
+            {
+                "name": "Escalator No 2",
+                "floor": "Street To Unpaid Concourse",
+                "location": "A Entrance"
+            },
+            {
+                "name": "Escalator No 3",
+                "floor": "Street To Unpaid Concourse",
+                "location": "B Entrance"
+            },
+            {
+                "name": "Escalator No 4",
+                "floor": "Concourse To Platform 1",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No 5",
+                "floor": "Concourse To Platform 1",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No 6",
+                "floor": "Concourse To Platform 2",
+                "location": "-"
+            },
+            {
+                "name": "Lift No 1",
+                "floor": "Street To Unpaid Concourse",
+                "location": "C Entrance"
+            },
+            {
+                "name": "Lift No 2",
+                "floor": "Street To Unpaid Concourse",
+                "location": "D Entrance"
+            },
+            {
+                "name": "Lift No 3",
+                "floor": "Concourse To Platform 1",
+                "location": "-"
+            },
+            {
+                "name": "Lift No 4",
+                "floor": "Concourse To Platform 2",
+                "location": "-"
+            }
+        ]
+    },
+    {
+        "station_name": "Vadapalani",
+        "alias": [
+            "Vadapalani Metro"
+        ],
+        "platforms": [
+            {
+                "platform_no": 1,
+                "direction": "Towards Chennai Airport & St.Thomas Mount"
+            },
+            {
+                "platform_no": 2,
+                "direction": "Towards Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro"
+            }
+        ],
+        "lifts_escalators": [
+            {
+                "name": "Escalator No E 01",
+                "floor": "Street To Unpaid Concourse",
+                "location": "A & B Entrances"
+            },
+            {
+                "name": "Escalator No E 04",
+                "floor": "Concourse To Unpaid Link Bridge",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No E 05",
+                "floor": "Link Bridge To Paid Platform 2",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No E 06",
+                "floor": "Link Bridge To Paid Platform 1",
+                "location": "-"
+            },
+            {
+                "name": "Lift No L 01",
+                "floor": "Street To Unpaid Link Bridge",
+                "location": "A & B Entrances"
+            },
+            {
+                "name": "Lift No L 06",
+                "floor": "Link Bridge To Paid Platform 2",
+                "location": "-"
+            },
+            {
+                "name": "Lift No L 07",
+                "floor": "Link Bridge To Paid Platform 1",
+                "location": "-"
+            },
+            {
+                "name": "Lift No L 08",
+                "floor": "Street To Unpaid Link Bridge",
+                "location": "C & D Entrances"
+            }
+        ]
+    },
+    {
+        "station_name": "Ashok Nagar",
+        "alias": [
+            "Ashok Nagar Metro"
+        ],
+        "platforms": [
+            {
+                "platform_no": 1,
+                "direction": "Towards St.Thomas Mount Metro & Chennai Airport"
+            },
+            {
+                "platform_no": 2,
+                "direction": "Towards Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro"
+            }
+        ],
+        "lifts_escalators": [
+            {
+                "name": "Escalator No 3",
+                "floor": "Street To Unpaid Concourse",
+                "location": "C Entrance"
+            },
+            {
+                "name": "Escalator No 8",
+                "floor": "Paid Concourse To PF 1",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No 9",
+                "floor": "Paid Concourse To PF 2",
+                "location": "-"
+            },
+            {
+                "name": "Lift No 01",
+                "floor": "Paid Concourse To PF 1",
+                "location": "-"
+            },
+            {
+                "name": "Lift No 02",
+                "floor": "Paid Concourse To PF 2",
+                "location": "-"
+            },
+            {
+                "name": "Lift No 03",
+                "floor": "Street To Unpaid Concourse",
+                "location": "D Entrance"
+            }
+        ]
+    },
+    {
+        "station_name": "Ekkattuthangal",
+        "alias": [
+            "Ekkattuthangal Metro"
+        ],
+        "platforms": [
+            {
+                "platform_no": 1,
+                "direction": "Towards Chennai Airport"
+            },
+            {
+                "platform_no": 2,
+                "direction": "Towards Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro"
+            }
+        ],
+        "lifts_escalators": [
+            {
+                "name": "Escalator No 1",
+                "floor": "Street To Unpaid Concourse",
+                "location": "A1 Entrance"
+            },
+            {
+                "name": "Escalator No 2",
+                "floor": "Concourse To Platform 2",
+                "location": "EFO 02"
+            },
+            {
+                "name": "Escalator No 3",
+                "floor": "Concourse To Platform 1",
+                "location": "EFO 01"
+            },
+            {
+                "name": "Lift No 01",
+                "floor": "Concourse To Street",
+                "location": "A2 Entrance"
+            },
+            {
+                "name": "Lift No 02",
+                "floor": "Concourse To Platform",
+                "location": "-"
+            },
+            {
+                "name": "Lift No 03",
+                "floor": "Concourse To Platform",
+                "location": "-"
+            },
+            {
+                "name": "Lift No 04",
+                "floor": "Concourse To Street",
+                "location": "B1 Entrance"
+            }
+        ]
+    },
+    {
+        "station_name": "St. Thomas Mount Metro",
+        "alias": [
+            "St. Thomas Mount",
+            "Thomas Mount Metro",
+            "Thomas Mount"
+        ],
+        "platforms": [
+            {
+                "platform_no": 1,
+                "direction": "Towards Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro"
+            }
+        ],
+        "lifts_escalators": [
+            {
+                "name": "Escalator No 3",
+                "floor": "Street To Unpaid Concourse",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No 4",
+                "floor": "MRTS To Concourse",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No 13",
+                "floor": "Platform 1 To MRTS",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No 9",
+                "floor": "Concourse To MRTS",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No 17",
+                "floor": "MRTS To Platform 1",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No 6",
+                "floor": "Concourse To MRTS",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No 14",
+                "floor": "MRTS To Platform 2",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No 10",
+                "floor": "MRTS To Concourse",
+                "location": "-"
+            },
+            {
+                "name": "Escalator No 18",
+                "floor": "Platform 2 To MRTS",
+                "location": "-"
+            },
+            {
+                "name": "Lift No 01",
+                "floor": "Street To Concourse",
+                "location": "-"
+            },
+            {
+                "name": "Lift No 02",
+                "floor": "Street To Concourse",
+                "location": "-"
+            },
+            {
+                "name": "Lift No 03",
+                "floor": "Concourse To Platform 1",
+                "location": "-"
+            },
+            {
+                "name": "Lift No 04",
+                "floor": "Concourse To Platform 2",
+                "location": "-"
+            }
+        ]
+    }
+    ]
+}
